@@ -1,4 +1,4 @@
-# GitHub Exercise!
+# Exercise: GitHub Workflow
 
 ## Goal of this Exercise:
 1. Simulate making code changes on projects and homework
