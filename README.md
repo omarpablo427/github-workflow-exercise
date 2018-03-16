@@ -12,6 +12,7 @@
 4. At the end, make a **final**, single Pull Request to the upstream (original) repo
 
 ## Bonus:
+Now that you understand Git workflow better, pull down + submit some more changes to your Google Clone homework repo
 
 ## Before you start:
 Make sure to have GitHub Desktop installed https://desktop.github.com/
